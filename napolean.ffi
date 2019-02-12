@@ -1,0 +1,8 @@
+# EJVejosbrother
+put Angurcoin
+
+curl = Class.new do
+  def say_hello
+    puts "HElod"
+  end
+end
